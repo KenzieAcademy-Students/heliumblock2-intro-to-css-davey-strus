@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@400;800&display=swap');
+h1 {
+  color: red;
+  background-color: yellow;
+  font-family: 'Lobster', sans-serif;
+  /* serif, sans-serif, monospace, cursive, fantasy */
+}
+p {
+  font-size: 24px;
+  text-align: left;
+  font-family: Montserrat, sans-serif;
+  /* left, right, center, justify */
+}
+div {
+  font-style: italic;
+}
+a {
+  text-decoration: wavy underline;
+  text-decoration-color: aqua;
+  /* overline line-through */  
+}
+/* #main {
+  color:royalblue;
+} */
+.super {
+  background-color:skyblue;
+  color: tomato;
+  font-weight: 800;
+}
+.special {
+  text-align: right;
+  color: darkviolet;
+}
+ul.super {
+  color: red;
+  list-style: none;
+  padding: 0;
+}
